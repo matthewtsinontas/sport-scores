@@ -5,6 +5,6 @@ import Main from '.';
 describe('Main App', () => {
   it('renders the Main component', () => {
     const element = shallow(<Main />);
-    expect(element.exists()).toBe(true);
+    expect(element.exists()).toBe(false);
   });
 });
