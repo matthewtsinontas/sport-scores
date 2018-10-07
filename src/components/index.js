@@ -9,7 +9,7 @@ class Main extends React.Component {
 
   render() {
     return (
-      <p>Hello, I'm the main app!</p>
+      <p>whagwann</p>
     )
   }
 
